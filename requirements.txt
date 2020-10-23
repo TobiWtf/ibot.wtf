@@ -1,0 +1,6 @@
+requests
+uvicorn[standard]
+fastapi
+typing
+aiofiles
+websocket-client

@@ -1,0 +1,20 @@
+/* Written with love by tobi <3 > */
+
+body {
+    overflow:scroll;
+    overflow-x:hidden;
+    background-color: rgb(26, 26, 26);
+}
+
+a {
+    border: 1px solid rgb(176, 176, 176);
+    color:  rgb(176, 176, 176);
+    padding: 5px 5px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 12px;
+    font-family: monospace;
+    text-decoration:none;
+    margin:5px;
+    margin-right: 20px;
+}

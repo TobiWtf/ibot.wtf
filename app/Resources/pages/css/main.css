@@ -1,0 +1,26 @@
+/* Written with love by tobi <3 > */
+
+html {
+    background-color: rgb(26, 26, 26);
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+div {
+    text-align: center;
+    margin-top: 13%;
+}
+
+a {
+    font-family: monospace;
+    color: 	rgb(176, 176, 176);
+    border: 1px solid rgb(176, 176, 176);
+    border-radius: 12px;
+    padding: 5px 5px;
+    text-decoration: none;
+    max-width: max-content;
+}
+
